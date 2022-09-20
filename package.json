@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "browse-url": "^1.1.5",
+    "browser-sync": "^2.27.10"
+  }
+}
